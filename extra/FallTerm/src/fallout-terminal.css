@@ -3,7 +3,7 @@
     width: 6px;
 }
 ::-webkit-scrollbar-thumb {
-    background-color: lightgreen;
+    background-color: orange;
     box-shadow: -2px 2px 6px black;
 }
 ::-webkit-scrollbar-track-piece {
@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url('terminal-bg.jpg');
+  background-image: url('bgo.png');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -22,7 +22,7 @@ body {
   line-height: 1.2;
   text-align: center;
   text-shadow: 1px 1px 4px black;
-  color: lightgreen;
+  color: orange;
 }
 
 header {
@@ -48,7 +48,7 @@ main {
   width: 90vw;
   overflow-y: scroll;
   overflow-x: hidden;
-  caret-color: lightgreen;
+  caret-color: orange;
 }
 main > p {
   display: block;
@@ -57,7 +57,7 @@ main > p {
 }
 
 main > p:nth-child(even) {
-  color: limegreen;
+  color: orange;
 }
 
 main span {
