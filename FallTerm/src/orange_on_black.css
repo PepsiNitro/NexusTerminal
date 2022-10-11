@@ -1,8 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-image: url('bg.png');
-  background-color: black;
+  background-image: url('bg.png')
   color: #fbc41f;
   text-shadow: 0 0 4px #F68A27;
   margin: 0;

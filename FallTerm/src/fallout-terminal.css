@@ -11,13 +11,15 @@
 }
 
 body {
-  background-image: url('bgo.png');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
+  background-image: url('bg.png');
+  background-color: black;
+  -webkit-background-size: multiply;
+  -moz-background-size: multiply;
+  background-size: multiply;
   overflow: hidden;
   padding: 20px;
-  font-family: "Share Tech Mono", monospace;
+  font-family: 'PxPlus IMB VGA8';
+  src: url('PxPlus_IBM_VGA8.ttf') format('truetype');
   font-size: 18px;
   line-height: 1.2;
   text-align: center;
