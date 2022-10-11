@@ -1,7 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-image: url('bg.png')
+  background-image: url('bg.png');
   color: #fbc41f;
   text-shadow: 0 0 4px #F68A27;
   margin: 0;
@@ -104,4 +104,10 @@ span {
   background-blend-mode: multiply;
   z-index: 9999;
   pointer-events: none;
+}
+
+a {
+  color: #fbc41f;
+  text-decoration: none;
+
 }

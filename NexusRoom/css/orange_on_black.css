@@ -106,3 +106,9 @@ span {
   z-index: 9999;
   pointer-events: none;
 }
+
+a {
+  color: #fbc41f;
+  text-decoration: none;
+
+}
