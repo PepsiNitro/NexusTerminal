@@ -1,0 +1,41 @@
+body {
+  font-family: 'PxPlus IMB VGA8';
+  src: url('PxPlus_IBM_VGA8.ttf') format('truetype');
+  color: #fff;
+  background-color: black;
+  position: fixed;
+}
+a {
+  color: #6079e6;
+}
+#sfn {
+  padding: 10px;
+}
+#detail {
+  padding-bottom: 10px;
+}
+#sfnButton {
+  padding: 3px;
+  background-color: black;
+  font-family: 'PxPlus IMB VGA8';
+  src: url('PxPlus_IBM_VGA8.ttf') format('truetype');
+  color: #fbc41f;
+  text-shadow: 0 0 4px #F68A27;
+  margin-bottom: 0.8em;
+  padding: 0.3em;
+  font-size: 0.9em;
+  border-width: 0.3em;
+  border-style: double;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  box-shadow: 0 0 5px #fbc41f;
+}
+* {
+  margin: auto;
+  text-align: center;
+}
+#header {
+  padding-top:  25%;
+  padding-bottom: 20px;
+}
