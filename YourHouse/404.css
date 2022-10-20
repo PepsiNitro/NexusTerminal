@@ -4,6 +4,13 @@ body {
   color: #fff;
   background-color: black;
   position: fixed;
+  height: 100%;
+  width: 100%;
+  color: #fbc41f;
+  text-shadow: 0 0 4px #F68A27;
+  margin: 0;
+  padding: 0;
+  cursor: default;
 }
 a {
   color: #6079e6;
